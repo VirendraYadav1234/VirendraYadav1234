@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             val name=text.editableText.toString()
             intent.putExtra("name",name)
             startActivity(intent)
-            Toast.makeText(this, "enjoy your day", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Happy birthday", Toast.LENGTH_SHORT).show()
 
         }
 
