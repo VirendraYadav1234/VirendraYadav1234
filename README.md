@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VirendraYadav
-- 👀 I’m a android developer using flutter 
+- 👀 I’m a web developer
 
-- 🌱 I’m currently doing android development using flutter 
+- 🌱 I’m currently learning react 
 - 💞️ I’m looking to internship
 - 📫 my gmail is  virendrayadavv59@gmail.com
 
