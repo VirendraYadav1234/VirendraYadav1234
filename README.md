@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VirendraYadav
 - 👀 I’m a web developer
-
+-😊 I'm a FullStack web developer MERN stack Developer
 - 🌱 I’m currently learning react 
 - 💞️ I’m looking to internship
 - 📫 my gmail is  virendrayadavv59@gmail.com
