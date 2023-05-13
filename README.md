@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VirendraYadav
 - 👀 I’m a web developer
 -😊 I'm a FullStack web developer MERN stack Developer
-- 🌱 I’m currently learning react 
-- 💞️ I’m looking to internship
+- 🌱 I’m currently learning Data Structure 
+- 💞️ I’m looking to Job
 - 📫 my gmail is  virendrayadavv59@gmail.com
 
 <!---
